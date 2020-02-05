@@ -22,7 +22,7 @@ To use the `train` function, both `train_set` and `validation_set` should be thr
 
 # Paper Citation
 If you use this code in your research and find it helpful, please cite the following paper:
-> Ozan Ozdenizci, Ye Wang, Toshiaki Koike-Akino, Deniz Erdogmus. "Learning Invariant Representations from EEG via Adversarial Inference". IEEE Access, 2020.
+> Ozan Ozdenizci, Ye Wang, Toshiaki Koike-Akino, Deniz Erdogmus. "Learning Invariant Representations from EEG via Adversarial Inference". IEEE Access, 2020. https://dx.doi.org/10.1109/ACCESS.2020.2971600
 
 # Acknowledgments
 Ozan Ozdenizci and Deniz Erdogmus are partially supported by NSF (IIS-1149570, CNS-1544895, IIS-1715858), DHHS (90RE5017-02-01), and NIH (R01DC009834).
